@@ -57,3 +57,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-wilson0406.vercel.app/api?username=wilson0406&show_icons=true&locale=en&theme=tokyonight" alt="wilson0406" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilson0406&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="wilson0406" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=wilson0406&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" alt="wilson0406"></p>
