@@ -55,7 +55,7 @@
 
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-wilson0406.vercel.app/api?username=wilson0406&show_icons=true&locale=en&theme=tokyonight" alt="wilson0406" /></p>
 
