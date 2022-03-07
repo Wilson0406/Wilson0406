@@ -37,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wilson0406?tab=repositories](https://github.com/Wilson0406?tab=repositories)
 
-- 📝 I regularly write articles on [https://wilsonvd.hashnode.dev](https://wilsonvd.hashnode.dev)
+- 📝 I write articles on [https://wilsonvd.hashnode.dev](https://wilsonvd.hashnode.dev)
 
 - 💬 Ask me about **Music**
 
