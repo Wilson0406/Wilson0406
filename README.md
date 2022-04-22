@@ -27,9 +27,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson0406&label=Profile%20views&color=0e75b6&style=flat" alt="wilson0406" /> </p>
 
-- 🔭 I’m currently working on [ANPR](https://www.researchgate.net/publication/236888959_Automatic_Number_Plate_Recognition_System_ANPR_A_Survey)
+- 🔭 I’m currently working on [ANPR](https://github.com/Wilson0406/License-Plate-Detection-And-Recognition)
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **React Js, DSA**
 
 - 👯 I’m looking to collaborate on [Brooke Chatbot](https://github.com/Wilson0406/Javascript-chatbot)
 
