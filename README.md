@@ -35,7 +35,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wilson0406?tab=repositories](https://github.com/Wilson0406?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Wilson0406?tab=repositories)
 
 - 📝 I write articles on [https://wilsonvd.hashnode.dev](https://wilsonvd.hashnode.dev)
 
