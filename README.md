@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson0406&label=Profile%20views&color=0e75b6&style=flat" alt="wilson0406" /> </p>
 
-- 🔭 I’m currently working on [LPDR](https://github.com/Wilson0406/License-Plate-Detection-And-Recognition)
+- 🔭 I’m currently working on [Woogle](https://github.com/Wilson0406/google-clone)
 
 - 🌱 I’m currently learning **React Js, DSA**
 
