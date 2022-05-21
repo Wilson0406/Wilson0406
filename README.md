@@ -57,10 +57,14 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-wilson0406.vercel.app/api?username=wilson0406&show_icons=true&locale=en&theme=tokyonight" alt="wilson0406" /></p>
+<p align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilson0406&theme=tokyonight" alt="wilson0406" />
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilson0406&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="wilson0406" /></p>
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=wilson0406&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" alt="wilson0406"></p>
+<p align="center">
+<!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wilson0406&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" alt="wilson0406"> -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilson0406&theme=tokyonight" alt="wilson0406" />
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wilsonvd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wilsonvd" /></a></p>
