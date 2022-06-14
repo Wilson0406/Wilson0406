@@ -1,4 +1,4 @@
-![Wilson Vidyut Doloy](https://github.com/Wilson0406/Wilson0406/blob/main/Wilson%20Vidyut%20Doloy.png)
+[![Wilson Vidyut Doloy](https://github.com/Wilson0406/Wilson0406/blob/main/Wilson%20Vidyut%20Doloy.png)](https://wilsonvd.me/)
 
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">I am Wilson Vidyut Doloy. A passionate frontend developer from India. I'm currently pursuing B.Tech in Computer Science and Engineering at VIT Chennai. Feel free to connect with me here:👇</h3>
@@ -46,7 +46,7 @@
 
 - ⚡ Fun fact **The entire world's population could fit inside Los Angeles.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -106,18 +106,47 @@
   </a>
 </p>
 
+
+<h3 align="left">Statistics:</h3>
 <br><br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" /></p>
-
-<p align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilson0406&theme=tokyonight" alt="wilson0406" />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=wilson0406&theme=tokyonight">
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilson0406&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="wilson0406" /></p>
-<p align="center">
+<table align="center">
+  <tr>
+    <td>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" />
+</p>
+    </td>
+    <td>
+<p align="center">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilson0406&theme=tokyonight" alt="wilson0406" />
+</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilson0406&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="wilson0406" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center">
 <!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wilson0406&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" alt="wilson0406"> -->
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilson0406&theme=tokyonight" alt="wilson0406" />
 </p>
+    </td>
+  </tr>
+  </table>
+
+
+
 
 <h3 align="left">Support:</h3>
+<table align="center" border="0">
+  <tr>
+    <td>
 <p><a href="https://www.buymeacoffee.com/wilsonvd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wilsonvd" /></a></p>
+    </td>
+  </tr>
+  </table>
