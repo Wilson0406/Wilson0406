@@ -25,7 +25,12 @@
 <a href="/https://wilsonvd.hashnode.dev/rss.xml." target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wilsonvd.hashnode.dev/rss.xml." height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wilson0406&label=Profile%20views&color=0e75b6&style=flat" alt="wilson0406" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wilson0406&label=Profile%20views&color=0e75b6&style=flat" alt="wilson0406" />
+  <img src="https://wakatime.com/badge/user/6d5972f7-e9a4-43ae-9193-142206ed0846.svg" />
+</p>
+
+
 
 - 🔭 I’m currently working on - [Book Recommendation System](https://github.com/Wilson0406/Book-Recommendation-System)
 <!-- - [Woogle](https://github.com/Wilson0406/google-clone) and [Youthube](https://github.com/Wilson0406/Youtube-Clone) -->
