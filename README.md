@@ -1,4 +1,4 @@
-[![Wilson Vidyut Doloy](https://github.com/Wilson0406/Wilson0406/blob/main/Wilson%20Vidyut%20Doloy%20OG.png)](https://wilsonvd.me/)
+[![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/Wilson%20Vidyut%20Doloy%20OG.png)](https://wilsonvd.me/)
 
 <h1 align="center">Hey there👋</h1>
 <h3 align="center">I am Wilson Vidyut Doloy. A passionate Software developer from India. I'm currently pursuing B.Tech in Computer Science and Engineering at VIT Chennai. Feel free to connect with me here:👇</h3>
@@ -165,7 +165,7 @@
 <!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=wilson0406&theme=tokyonight">
 </p> -->
-
+<div align="center">
 <table align="center">
   <tr>
     <td>
@@ -203,3 +203,4 @@
     </td>
   </tr>
   </table> -->
+</div>
