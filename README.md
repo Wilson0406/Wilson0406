@@ -101,6 +101,9 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/-Canva-01C2CC?style=flat-square&logo=Canva&logoColor=white">
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Scrimba-2B283A?style=flat-square&logo=scrimba&logoColor=white">
 
 <!--
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
