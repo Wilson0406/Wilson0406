@@ -42,6 +42,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wilson0406&label=Profile%20views&color=0e75b6&style=flat" alt="wilson0406" />
   <img src="https://wakatime.com/badge/user/6d5972f7-e9a4-43ae-9193-142206ed0846.svg" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=flat-square&color=0088cc&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fwilson0406" />
 </p>
 
 
@@ -49,7 +50,7 @@
 - 🔭 I’m currently working on - [Password Strength Evaluator](https://github.com/Wilson0406/Password-Strength)
 <!-- - [Woogle](https://github.com/Wilson0406/google-clone) and [Youthube](https://github.com/Wilson0406/Youtube-Clone) -->
 
-- 🌱 I’m currently learning **DSA, React Js, Machine Learning**
+- 🌱 I’m currently learning **React Js, Machine Learning**
 
 - 👯 I’m looking to collaborate on [LPDR](https://github.com/Wilson0406/License-Plate-Detection-And-Recognition)
 
