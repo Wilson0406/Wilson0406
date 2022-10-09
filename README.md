@@ -9,7 +9,6 @@
 
 <!--<h3 align="left">Connect with me:</h3>-->
  <div align="center">
-
 <!-- <a href = "https://www.instagram.com/wilson_vidyut_/"><img src="https://img.shields.io/badge/-wilson_vidyut_-purple?style=flat-square&logo=instagram&logoColor=white"></a> -->
 
 <a href = "https://www.linkedin.com/in/wilson-vd/"><img src="https://img.shields.io/badge/-wilsonvd-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -18,7 +17,6 @@
 <a href="https://codepen.io/wilson0406" target="blank"><img align="" src="https://img.shields.io/badge/-wilsonvidyut-white?style=flat-square&logo=Codepen&logoColor=black" alt="codepen_wilson" /></a>
 <a href="https://www.youtube.com/channel/UC2bd5dreERFO2VFbX0hrn4Q" target="blank"><img align="" src="https://img.shields.io/badge/-wilsonvidyutdoloy-darkred?style=flat-square&logo=youtube&logoColor=white" alt="youtube_wilson" /></a>
 <a href="mailto:wilsonvidyut@gmail.com"><img align="" src="https://img.shields.io/badge/-wilsonvidyut@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="wilson_email"/></a>
-
 </div> 
 
 <!--
@@ -45,7 +43,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=flat-square&color=0088cc&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fwilson0406" />
 </p>
 
-
+<!-- <img align="right" width="375" alt="" src="https://media4.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" /> -->
+<img align="right" width="345" alt="" src="https://i.pinimg.com/originals/58/0c/e0/580ce0d7ed14fdfea330454ec8eefb77.gif" />
 
 - 🔭 I’m currently working on - [Password Strength Evaluator](https://github.com/Wilson0406/Password-Strength)
 <!-- - [Woogle](https://github.com/Wilson0406/google-clone) and [Youthube](https://github.com/Wilson0406/Youtube-Clone) -->
@@ -66,9 +65,12 @@
 
 - ⚡ Fun fact **The entire world's population could fit inside Los Angeles.**
 
+
+
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 
 <h3 align="left">Languages and Tools:</h3>
