@@ -1,4 +1,7 @@
 [![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/Wilson%20Vidyut%20Doloy.jpg)](https://wilsonvd.me/)
+<!-- [![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/snake.svg)](https://wilsonvd.me/) -->
+
+
 
 <h1 align="center">Hey there👋</h1>
 <h3 align="center">I am Wilson Vidyut Doloy. A passionate Software developer from India. I'm currently pursuing B.Tech in Computer Science and Engineering at VIT Chennai. Feel free to connect with me here:👇</h3>
@@ -71,7 +74,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -198,7 +201,9 @@
   </tr>
   </table>
 
-
+<!-- <div align="center"> -->
+  <a href="https://wilsonvd.me"><img src="https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/snake.svg" /></a>
+<!-- </div> -->
 
 
 <!-- <h3 align="left">Support:</h3>
