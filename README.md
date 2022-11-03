@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on - [Password Strength Evaluator](https://github.com/Wilson0406/Password-Strength)
 <!-- - [Woogle](https://github.com/Wilson0406/google-clone) and [Youthube](https://github.com/Wilson0406/Youtube-Clone) -->
 
-- 🌱 I’m currently learning **React Js, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [LPDR](https://github.com/Wilson0406/License-Plate-Detection-And-Recognition)
 
