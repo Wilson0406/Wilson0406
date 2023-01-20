@@ -178,7 +178,7 @@
 <table align="center">
   <tr>
     <td>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" />
+<p align="center"><img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=wilson0406&langs_count=12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="wilson0406" />
 </p>
     </td>
     <td>
