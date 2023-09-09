@@ -1,4 +1,4 @@
-[![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/Wilson%20Vidyut%20Doloy.jpg)](https://wilsonvd.me/)
+[![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/Wilson%20Vidyut%20Doloy.jpg)](https://wilson-vd.netlify.app/)
 <!-- [![Wilson Vidyut Doloy](https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/snake.svg)](https://wilsonvd.me/) -->
 
 
@@ -202,7 +202,7 @@
   </table>
 
 <!-- <div align="center"> -->
-  <a href="https://wilsonvd.me"><img src="https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/snake.svg" /></a>
+  <a href="https://wilson-vd.netlify.app"><img src="https://raw.githubusercontent.com/Wilson0406/Wilson0406/main/snake.svg" /></a>
 <!-- </div> -->
 
 
