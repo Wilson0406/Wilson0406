@@ -49,7 +49,7 @@
 <!-- <img align="right" width="375" alt="" src="https://media4.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" /> -->
 <img align="right" width="345" alt="" src="https://i.pinimg.com/originals/58/0c/e0/580ce0d7ed14fdfea330454ec8eefb77.gif" />
 
-- 🔭 I’m currently working on - [Password Strength Evaluator](https://github.com/Wilson0406/Password-Strength)
+- 🔭 I’m currently working on - Improving my Skills
 <!-- - [Woogle](https://github.com/Wilson0406/google-clone) and [Youthube](https://github.com/Wilson0406/Youtube-Clone) -->
 
 - 🌱 I’m currently learning **Machine Learning, ReactJs**
